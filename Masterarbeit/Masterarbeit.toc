@@ -1,0 +1,29 @@
+\select@language {english}
+\contentsline {section}{\numberline {I}Abstract}{I}{section.I}
+\contentsline {section}{II \hspace {0.35em}Contents}{II}{section*.1}
+\contentsline {section}{\numberline {III}List of Figures}{III}{section.III}
+\contentsline {section}{\numberline {IV}List of Tables}{IV}{section.IV}
+\contentsline {section}{\numberline {V}List of Abbreviations}{V}{section.V}
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}
+\contentsline {subsection}{\numberline {1.1}Related Work}{1}{subsection.1.1}
+\contentsline {section}{\numberline {2}Background}{2}{section.2}
+\contentsline {subsection}{\numberline {2.1}What is fog?}{2}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Rules for safe traffic sign detection}{2}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Color Spaces}{2}{subsection.2.3}
+\contentsline {section}{\numberline {3}Software}{3}{section.3}
+\contentsline {subsection}{\numberline {3.1}Functionality}{3}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Algorithms}{3}{subsection.3.2}
+\contentsline {section}{\numberline {4}Experiments}{4}{section.4}
+\contentsline {subsection}{\numberline {4.1}Steps}{4}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Results}{4}{subsection.4.2}
+\contentsline {section}{\numberline {5}Conclusion}{5}{section.5}
+\contentsline {section}{\numberline {6}Formatierungs-Beispiele}{6}{section.6}
+\contentsline {subsection}{\numberline {6.1}Bilder}{6}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Tabellen}{6}{subsection.6.2}
+\contentsline {subsection}{\numberline {6.3}Auflistung}{7}{subsection.6.3}
+\contentsline {subsection}{\numberline {6.4}Listings}{7}{subsection.6.4}
+\contentsline {subsection}{\numberline {6.5}Tipps}{7}{subsection.6.5}
+\contentsline {section}{\numberline {7}Bibliography}{8}{section.7}
+\contentsline {section}{Anhang}{I}{section*.4}
+\vspace {-0.5em}
+\contentsline {section}{\numberline {A}GUI}{I}{appendix.A}
